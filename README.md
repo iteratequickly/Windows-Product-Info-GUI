@@ -7,6 +7,7 @@ A modern **dark-themed Windows GUI tool** built with **PowerShell and WPF** that
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+[![Downloads](https://img.shields.io/github/downloads/iteratequickly/Windows-Product-Info-GUI/total.svg?label=Downloads)](https://github.com/iteratequickly/Windows-Product-Info-GUI/releases)
 
 <p align="center">
   <img src="assets/Windows-Product-Info-GUI.png" alt="Windows Product Information GUI Screenshot" width="800">
